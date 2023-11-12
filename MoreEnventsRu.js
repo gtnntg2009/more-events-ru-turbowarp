@@ -1,4 +1,4 @@
-// Name: больше событий
+// Name: More Envents Ru
 // ID: lmsMoreEventsru
 // Description: Start your scripts in new ways.
 // By: LilyMakesThings <https://scratch.mit.edu/users/LilyMakesThings/>
